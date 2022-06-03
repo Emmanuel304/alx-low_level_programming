@@ -3,16 +3,15 @@
 #include <stdio.h>
 
 /**
- * main - Prints a random number and states whether
- * it is positive, negative, or zero.
+ * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int n;
 
-	srand(time(0);
+	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
 	if (n == 0)
