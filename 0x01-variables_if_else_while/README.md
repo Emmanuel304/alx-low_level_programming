@@ -1,1 +1,2 @@
-learning about variables in c. remember all codes start with #include <stdio.h>
+learning about variables in c. 
+remember all codes start with #include <stdio.h> 
