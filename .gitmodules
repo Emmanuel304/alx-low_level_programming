@@ -1,0 +1,3 @@
+[submodule "0x02-functions_nested_loops/0x02-functions_nested_loops/alx-low_level_pro"]
+	path = 0x02-functions_nested_loops/0x02-functions_nested_loops/alx-low_level_pro
+	url = https://github.com/Emmanuel304/alx-low_level_programming.git
